@@ -9,7 +9,8 @@ Este projeto é um componente reutilizável do React projetado para simular uma 
 
 ## Visualizando o Projeto
 Para quem quiser baixar e testar o projeto, tenha que certa que apos baixar esse projeto, tenha o Node.js (versão v20.11.1) e o npm (versão 10.2.4) instalados na sua máquina.
-Para baixar o Node.js clique [aqui](https://nodejs.org/en/download/) e para instalar o npm apos instalar o node é o utilizar o comando 'npm install'
+- Para baixar o Node.js clique [aqui](https://nodejs.org/en/download/) 
+- Para instalar o npm apos instalar o node é só utilizar o comando 'npm install'
 
 ## Contato
 Para mais informações minhas e sobre outros projetos meus veja meu [Portifolio](https://github.com/MatheusViuge/PortifolioMatheusViuge/tree/main)
