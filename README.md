@@ -29,7 +29,7 @@ This project is a reusable React component designed to simulate a comment sectio
  ## Viewing the Project
 For those who want to download and test the project, make sure that after downloading this project, you have Node.js (version v20.11.1) and npm (version 10.2.4) installed on your machine.
 
-- To download Node.js click here
+- To download Node.js click [here](https://nodejs.org/en/download/)
 - To install npm after installing node, just use the command 'npm install'
 - After installing node and npm, to view the project on your machine, use the command 'npm start'
 
