@@ -12,4 +12,4 @@ Para quem quiser baixar e testar o projeto, tenha que certa que apos baixar esse
 Para baixar o Node.js clique [aqui](https://nodejs.org/en/download/) e para instalar o npm apos instalar o node é o utilizar o comando 'npm install'
 
 ## Contato
-Para mais informaões minhas e sobre outros projetos meus veja meu [Portifolio](https://github.com/MatheusViuge/PortifolioMatheusViuge/tree/main)
+Para mais informações minhas e sobre outros projetos meus veja meu [Portifolio](https://github.com/MatheusViuge/PortifolioMatheusViuge/tree/main)
