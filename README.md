@@ -7,11 +7,19 @@ Este projeto é um componente reutilizável do React projetado para simular uma 
 - Exibição de comentários existentes com informações do autor e timestamps.
 - Permissão para excluir comentários já postados.
 
-## Visualizando o Projeto
-Para quem quiser baixar e testar o projeto, tenha que certa que apos baixar esse projeto, tenha o Node.js (versão v20.11.1) e o npm (versão 10.2.4) instalados na sua máquina.
-- Para baixar o Node.js clique [aqui](https://nodejs.org/en/download/) 
-- Para instalar o npm apos instalar o node é só utilizar o comando 'npm install'
-- Após instalar o node e o npm, para visualizar o projeto em sua maquina utlize o comando 'npm start' 
+## Tecnologias Utilizadas
+- React: Uma biblioteca JavaScript para construção de interfaces de usuário.
+- HTML/CSS: Para estruturação e estilização da aplicação.
+
+## Instalação
+Para rodar o projeto localmente em sua máquina, siga estas etapas:
+
+- Clone este repositório para sua máquina local.
+- Tenha certeza de ter o Node.js instalado na sua máquina. [Baixe o Node aqui](https://nodejs.org/en/download/)
+- No terminal, navegue até o diretório do projeto.
+- Execute o comando npm install para instalar as dependências.
+- Execute o comando npm start para iniciar o servidor de desenvolvimento.
+- Acesse a aplicação em seu navegador através do endereço http://localhost:3000.
 
 ## Contato
 Para mais informações minhas e sobre outros projetos meus veja meu [Portifolio](https://github.com/MatheusViuge/PortifolioMatheusViuge/tree/main)
@@ -26,12 +34,20 @@ This project is a reusable React component designed to simulate a comment sectio
 - Displaying existing comments with author information and timestamps.
 - Permission to delete already posted comments.
 
- ## Viewing the Project
-For those who want to download and test the project, make sure that after downloading this project, you have Node.js (version v20.11.1) and npm (version 10.2.4) installed on your machine.
+## Technologies Used
+- React: A JavaScript library for building user interfaces.
+- HTML/CSS: For structuring and styling the application.
 
-- To download Node.js click [here](https://nodejs.org/en/download/)
-- To install npm after installing node, just use the command 'npm install'
-- After installing node and npm, to view the project on your machine, use the command 'npm start'
+## Installation
+To run the project locally on your machine, follow these steps:
+
+* Clone this repository to your local machine.
+* Make sure you have Node.js installed on your machine. [Download Node here](https://nodejs.org/en/download/)
+* In the terminal, navigate to the project directory.
+* Run the command npm install to install the dependencies.
+* Run the command npm start to start the development server.
+* Access the application in your browser via the address http://localhost:3000.
+
 
 ## Contact
 For more information about me and my other projects, check out my [Portfolio](https://github.com/MatheusViuge/PortifolioMatheusViuge/tree/main)
